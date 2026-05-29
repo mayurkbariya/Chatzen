@@ -84,16 +84,11 @@ Chatzen is an ASP.NET Core MVC web application integrated with a Botpress AI cha
 
 \## ChatBot Image
 
-\### Chatbot Home Screen
-<img src="@Url.Content("~/Images/ChatBot.png")" alt="Chatbot Home" width="800" height="800" />
-
-\### Chatbot Conversation
-<img src="@Url.Content("~/Images/Chat.png")" alt="Chatbot Chat" width="800" height="800" />
-
-\### Chatbot Conversation
-<img src="@Url.Content("~/Images/Conversation.png")" alt="Chatbot Chat" width="800" height="800" />
-
-
+<p align="center">
+  <img src="Chatzen\wwwroot\Images\ChatBot.png" alt="Chatbot Home" width="45%">
+  <img src="Chatzen\wwwroot\Images\Chat.png" alt="Chatbot Chat" width="45%">
+  <img src="Chatzen\wwwroot\Images\Conversation.png" alt="Chatbot Chat" width="45%">
+</p>
 
 
 
